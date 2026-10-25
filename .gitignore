@@ -1,0 +1,26 @@
+# Python
+*.py[cod]
+.venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+instance/
+
+# Env: 
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+backend/static/uploads/
+node_modules
+dist
